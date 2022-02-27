@@ -1,0 +1,5 @@
+export const CUSTOM_XFLOW_NODE_SHAPE = "CUSTOM_XFLOW_NODE_SHAPE";
+
+export const NODE_DEFAULT_WIDTH = 180;
+
+export const NODE_DEFAULT_HEIGHT = 32;

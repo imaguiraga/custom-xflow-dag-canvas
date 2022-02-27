@@ -1,0 +1,18 @@
+{
+  "name": "xflow-dagforked",
+  "description": "在config-graph.tsx 中可以定义validateConnection，validateMagnet两个X6的配置项来控制连线的逻辑 ",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/icons": "^4.6.0",
+    "@ant-design/icons-svg": "4.2.1",
+    "@antv/xflow": "2.0.0",
+    "antd": "^4.6.3",
+    "lodash": "^4.17.20",
+    "react": "17.0.2",
+    "react-dom": ">=16.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^4"
+  },
+  "keywords": []
+}
